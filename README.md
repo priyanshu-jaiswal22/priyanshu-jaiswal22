@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently a **Cybersecurity & AI Research Intern at DRDO, Ministry of Defence, Govt. of India** — building multi-agent orchestration frameworks and privacy-preserving LLM pipelines
+- 🔭 Worked as a **Cybersecurity & AI Research Intern at DRDO, Ministry of Defence, Govt. of India** — built multi-agent orchestration frameworks and privacy-preserving LLM pipelines
 - 🤖 Focused on **Agentic AI**: **MCP (Model Context Protocol)**, multi-agent systems, **Tool-Use architectures**, and RAG pipelines
 - 💻 Also build **full-stack production apps** (MERN, Next.js) with real-time systems and AI-integrated SaaS
 - 🧠 Solved **300+ DSA problems** across LeetCode, GeeksforGeeks, and CodeChef (LeetCode rated 1500+)
@@ -63,12 +63,12 @@
 
 ---
 
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics >
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-jaiswal22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priyanshu-jaiswal22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-jaiswal22&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://hits.sh/github.com/priyanshu-jaiswal22.svg?style=for-the-badge&label=Unique+Profile+Views&color=0077B5" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-jaiswal22&label=UNIQUE+PROFILE+VIEWS&style=for-the-badge&color=0077B5" alt="Profile Views" />
 </p>
 
 <p align="center">
